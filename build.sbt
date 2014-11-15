@@ -17,6 +17,7 @@ libraryDependencies ++= Seq(
   "net.sf.opencsv" % "opencsv" % "2.0",
   "com.typesafe.slick" %% "slick" % "2.1.0",
   "com.typesafe.play" %% "play-slick" % "0.8.0",
-  "com.h2database" % "h2" % "1.3.175"
+  "com.h2database" % "h2" % "1.3.175",
+  "joda-time" % "joda-time" % "2.3"
 )     
 
